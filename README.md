@@ -1,6 +1,37 @@
-﻿# Hướng Dẫn Thiết Lập Dự Án IOT-BTL HomeAutomation
+# Dự Án Nhà Tự Động (Home Automation Project)
 
-## Tổng Quan Dự Án
+## Tổng Quan (Overview)
+Dự án nhà tự động cung cấp giải pháp quản lý và điều khiển thiết bị thông minh trong gia đình, mang lại trải nghiệm sống tiện nghi và hiệu quả.
+
+## Tính Năng Chính (Key Features)
+
+### 1. Giám Sát Nhiệt Độ 
+- Hiển thị thông tin nhiệt độ thời gian thực
+- Theo dõi nhiệt độ các phòng trong nhà
+
+### 2. Điều Khiển Đèn 
+- Điều khiển đèn theo chế độ thủ công
+- Chế độ tự động bật tắt
+
+### 3. Quản Lý Quạt
+- Điều khiển quạt bằng tay
+- Chế độ tự động điều chỉnh tốc độ quạt
+- Đồng bộ với cảm biến nhiệt độ
+
+### 4. Thống Kê Thiết Bị 
+- Báo cáo chi tiết về lịch sử sử dụng
+- Báo cáo chi tiết về lịch sử cài đặt 
+
+
+### 5. Quản Lý Thiết Bị & Cảm Biến (Device and Sensor Management)
+- Theo dõi trạng thái hoạt động của từng thiết bị
+
+### 6. Hệ Thống Cảnh Báo Cháy (Fire Alarm System)
+- Thông báo cho người dùng
+- Tự động tắt các thiết bị 
+
+
+# Hướng Dẫn Cài Đặt 
 
 ## Các IDE Được Khuyến Nghị:
 
