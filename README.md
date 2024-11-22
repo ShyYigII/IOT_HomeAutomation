@@ -1,9 +1,9 @@
-# Dự Án Nhà Tự Động (Home Automation Project)
+# Dự Án Nhà Tự Động IOT
 
-## Tổng Quan (Overview)
+## Tổng Quan 
 Dự án nhà tự động cung cấp giải pháp quản lý và điều khiển thiết bị thông minh trong gia đình, mang lại trải nghiệm sống tiện nghi và hiệu quả.
 
-## Tính Năng Chính (Key Features)
+## Tính Năng Chính 
 
 ### 1. Giám Sát Nhiệt Độ 
 - Hiển thị thông tin nhiệt độ thời gian thực
@@ -23,10 +23,10 @@ Dự án nhà tự động cung cấp giải pháp quản lý và điều khiể
 - Báo cáo chi tiết về lịch sử cài đặt 
 
 
-### 5. Quản Lý Thiết Bị & Cảm Biến (Device and Sensor Management)
+### 5. Quản Lý Thiết Bị & Cảm Biến 
 - Theo dõi trạng thái hoạt động của từng thiết bị
 
-### 6. Hệ Thống Cảnh Báo Cháy (Fire Alarm System)
+### 6. Hệ Thống Cảnh Báo Cháy
 - Thông báo cho người dùng
 - Tự động tắt các thiết bị 
 
